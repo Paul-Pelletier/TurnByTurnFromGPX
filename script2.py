@@ -145,6 +145,7 @@ def main(gpx_file_path, api_key):
     return url
 
 if __name__ == "__main__":
+    
     # Path to your GPX file
     gpx_file_path = "valleedechevreuse.gpx"
     # Your Google Maps API key (ensure to keep it secure)
