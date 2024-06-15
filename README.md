@@ -15,25 +15,3 @@ numpy library
 geopy library
 scikit-learn library
 folium library
-
-Installation
-Clone this repository or download the script.
-Install the required Python libraries:
-bash
-Copier le code
-pip install gpxpy googlemaps numpy geopy scikit-learn folium
-Set up your Google Maps API key:
-On Windows:
-cmd
-Copier le code
-set GOOGLE_MAPS_API_KEY=your_api_key_here
-On macOS/Linux:
-bash
-Copier le code
-export GOOGLE_MAPS_API_KEY=your_api_key_here
-Usage
-Ensure you have your GPX file ready.
-Run the script with the path to your GPX file and your Google Maps API key:
-bash
-Copier le code
-python script.py
