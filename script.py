@@ -124,6 +124,6 @@ if __name__ == "__main__":
     # Path to your GPX file
     gpx_file_path = "valleedechevreuse.gpx"
     # Your Google Maps API key (ensure to keep it secure)
-    api_key = "AIzaSyC3VFBy6bFcLuGpFa9eDzBtuy-gH2Bj_4E"  # Ensure you have set this environment variable
+    api_key = "xxxxxxxxxxxxxxxxxxxxxx"  # Ensure you have set this environment variable
     
     main(gpx_file_path, api_key)
