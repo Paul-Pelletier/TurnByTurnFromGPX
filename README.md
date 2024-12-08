@@ -1,4 +1,5 @@
 GPX to Google Maps Directions Optimizer
+
 This project provides a solution to optimize Google Maps routes from GPX files, aiming to match the original GPX track as closely as possible. The script samples waypoints from the GPX file, generates a Google Maps route, and iteratively improves the route to minimize the mean squared error (MSE) between the GPX track and the Google Maps route.
 
 Features
